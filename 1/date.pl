@@ -3,7 +3,7 @@
 
 $~ = 'SALUT_FORMAT';
 $^ = 'SALUT_FORMAT_TOP';
-$==2;
+$==30;
 print "Введите день: ";
 $day = <STDIN>;
 print "Введите мес: ";
